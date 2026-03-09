@@ -2,7 +2,8 @@
 # Hack The Box – Meow Walkthrough
 
 Difficulty: Very Easy  
-Platform: Hack The Box  
+Platform: Hack The Box
+Video Tutorial: https://youtu.be/ve0qMeAMTrE
 
 This write-up explains how the Meow machine was solved step-by-step.
 
