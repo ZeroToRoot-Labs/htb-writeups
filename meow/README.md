@@ -107,6 +107,12 @@ The flag confirms the machine has been successfully compromised.
 
 ---
 
+# Meow Completion Badge
+
+https://labs.hackthebox.com/achievement/machine/3230071/394
+<img width="1167" height="748" alt="image" src="https://github.com/user-attachments/assets/647f4c84-5e47-40fe-b6ba-f1498f5f7cc4" />
+
+---
 # Platform
 
 Hack The Box
