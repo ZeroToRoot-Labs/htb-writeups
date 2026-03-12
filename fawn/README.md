@@ -115,10 +115,23 @@ This confirms successful exploitation of the machine.
 
 # Lessons Learned
 
-• Anonymous FTP access can expose sensitive data  
-• Enumeration with Nmap identifies open services  
-• Always check default or anonymous credentials
+- FTP is not a shell:
+You cannot use cat inside ftp>.
+You must get files and then use Linux tools (cat, grep, etc.) locally.
 
+- Anonymous FTP is dangerous:
+Anyone can log in and read files.
+In real environments, this can expose sensitive data.
+
+- Control vs data connection:
+Errors like “No control connection” are related to FTP’s dual-connection design.
+passive off can fix issues.
+
+- Workflow pattern:
+
+Enumerate → Identify FTP → Check anonymous → List files → Download → Analyse.
+
+This pattern will repeat in more complex forms later.
 ---
 
 # Platform
