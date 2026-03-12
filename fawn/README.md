@@ -137,6 +137,7 @@ Enumerate → Identify FTP → Check anonymous → List files → Download → A
 # Platform
 
 Hack The Box
+<img width="1157" height="748" alt="image" src="https://github.com/user-attachments/assets/52034a85-b228-4a1c-854c-796e8c8d30b9" />
 
 ---
 
