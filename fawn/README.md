@@ -2,7 +2,7 @@
 
 Difficulty: Very Easy  
 Platform: Hack The Box  
-YouTube Tutorial: Coming Soon 
+YouTube Tutorial: https://youtu.be/ng4uYETrzuw
 
 This machine demonstrates how anonymous FTP access can expose sensitive files.
 
