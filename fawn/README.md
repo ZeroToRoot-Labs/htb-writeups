@@ -12,7 +12,7 @@ This machine demonstrates how anonymous FTP access can expose sensitive files.
 
 Before interacting with the machine we must connect to the Hack The Box VPN.
 
-Download the VPN configuration file from the Hack The Box portal.
+Download the VPN configuration file from the Hack The Box portal. If you already have .ovpn file downloaded, navigate to the folders its downloaded and run below.
 
 Connect using OpenVPN.
 
@@ -131,7 +131,7 @@ passive off can fix issues.
 
 Enumerate → Identify FTP → Check anonymous → List files → Download → Analyse.
 
-This pattern will repeat in more complex forms later.
+
 ---
 
 # Platform
