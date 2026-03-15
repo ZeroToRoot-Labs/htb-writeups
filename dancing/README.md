@@ -231,16 +231,10 @@ In real environments, administrators should:
 * Monitor SMB activity
 * Use proper authentication controls
 
-# HTB Dancing Notes and Completion notification
+# HTB Dancing Answers
 
 Inserting image...
-
-https://labs.hackthebox.com/achievement/machine/3230071/395
-
-Inserting image...
-
----
-# HTB Answers
 
 # Dancing Flag
 https://labs.hackthebox.com/achievement/machine/3230071/395
+Inserting image...
