@@ -6,6 +6,7 @@
 **Platform:** Hack The Box Starting Point
 **Difficulty:** Very Easy
 **Category:** SMB Enumeration
+**YouTube Link:** https://youtu.be/Sb4mNjcDvpA
 
 This machine focuses on **enumerating SMB shares** and accessing files through anonymous authentication.
 
