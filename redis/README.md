@@ -6,6 +6,7 @@ When exposed without authentication (a common misconfiguration), it allows attac
 
 This walkthrough documents the enumeration steps used to extract the flag from an exposed Redis instance.
 
+YouTube Tutorial -> https://youtu.be/8XrFz6Tmmus
 ---
 
 ## 🔹 1. Service Identification
